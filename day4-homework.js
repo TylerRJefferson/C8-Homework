@@ -11,18 +11,21 @@
 // 1
 // BLAST OFF!
 
+// THEN if you're done. Create a function where I can tell it any 
+// number I want to start with (instead of 10)
+
 
 function countDownStart (num){
   
   for(let i = num; i >= 1; i--) {
     console.log(i); {
       if (i === 1)
-      console.log('BLAST OFF!')
+      console.log('BLAST OFF!');
     }
   }
   
 }
-countDownStart(20)
+countDownStart(23)
 
 
 
