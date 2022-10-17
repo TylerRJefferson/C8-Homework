@@ -3,17 +3,10 @@ You are counting points for a basketball game, given the amount of 2-pointers sc
 Create a function that calculates the final points for the team and returns that value.
 */
 
-
-
-
-
-
-
-
-
-
-
-
+function calculatePoints(x,y) {
+  return (x * 2) + (y * 3)
+}
+console.log(calculatePoints(5,3))
 
 
 /*

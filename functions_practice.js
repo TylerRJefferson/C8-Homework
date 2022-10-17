@@ -46,11 +46,5 @@ function getNumber(index){
 
     //console.log(getNumber(0));
 
-//create a function that takes voltage and current and returns calculated power
-
-
-
-/*create a function that finds the maximum range of a triangles 3rd edge,
-where all side lengths are intergers*/
 
 
